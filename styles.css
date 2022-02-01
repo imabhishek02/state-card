@@ -1,0 +1,47 @@
+body{
+  background-color:  hsl(233, 47%, 7%);
+}
+span{
+  color: hsl(277, 64%, 61%)
+}
+h1{
+  color: white;
+  text-align: center;
+  width: 30%;
+  float: left;
+  margin: auto;
+
+}
+.square{
+height: 25%;
+width: 60%;
+margin: 100px auto 50px auto;
+background-color: hsl(244, 38%, 16%);
+border-radius: 1%;
+
+
+}
+.text{
+  margin: 20px;
+  position: relative;
+}
+img{
+  position:absolute;
+  height: 300px;
+  width:300px;
+  padding-left: 500px;
+
+
+
+}
+
+}
+h2{
+width: 30%;
+color: white;
+}
+h4{
+  width: 30%;
+
+  color: grey;
+}
