@@ -18,7 +18,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to:
 
-- The use of on android of this web application will be updated soon.
+- The use of on android of this web application will be updated soon here.
 
 - View the optimal layout depending on their device's screen size
 
